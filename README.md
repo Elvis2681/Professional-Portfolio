@@ -13,7 +13,7 @@ https://elvis2681.github.io/Professional-Portfolio/
 
 ## Portfolio Preview
 
-![Portfolio-Preview](/assets/images/Portfolio-Preview.png)
+![Portfolio-Preview](./Portfolio-Preview.png)
 
 ## License
 
